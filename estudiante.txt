@@ -4,3 +4,4 @@ Semestre: 3er semestre
 Materia: Actualización Tecnológica
 Gestión: 2026
 Modalidad: Presencial
+Ciudad: Oruro
