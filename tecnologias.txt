@@ -2,3 +2,4 @@ Python
 HTML
 CSS
 SQL
+Java Script 
