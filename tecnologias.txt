@@ -1,3 +1,4 @@
 Python
 HTML
 CSS
+SQL
