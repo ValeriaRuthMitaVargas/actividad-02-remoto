@@ -5,3 +5,7 @@ Materia: Actualización Tecnológica
 Gestión: 2026
 Modalidad: Presencial
 Ciudad: Oruro
+Correo: valeria.mita@Sistemas.edu.bo
+Teléfono: 78604015
+Ciudad: Oruro
+Descripción académica: Estudiante de la materia de Actualización Tecnológica, interesada en aprender y desarrollar conocimientos en herramientas tecnológicas.
