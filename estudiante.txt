@@ -8,4 +8,4 @@ Ciudad: Oruro
 Correo: valeria.mita@Sistemas.edu.bo
 Teléfono: 78604015
 Ciudad: Oruro
-Descripción académica: Estudiante de la materia de Actualización Tecnológica, interesada en aprender y desarrollar conocimientos en herramientas tecnológicas.
+Descripción académica: Estudiante de la materia de Actualización Tecnológica, interesada en aprender y desarrollar conocimientos en herramientas tecnológicas y Git.
